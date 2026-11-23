@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.kovan-secrets/
+.kovan_worker_token*
+*.db
+*.db-shm
+*.db-wal
+.pytest_cache/
+.coverage
+htmlcov/
+data/
